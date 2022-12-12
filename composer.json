@@ -1,5 +1,5 @@
 {
-  "name": "baidubce/bce-sdk-php",
+  "name": "baidubsdk/bce-sdk-php",
   "homepage": "http://bce.baidu.com/sdkforphp",
   "description": "BCE SDK for PHP",
   "keywords": [
